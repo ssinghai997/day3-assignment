@@ -1,0 +1,13 @@
+#headersec header{
+    /* background-color: cornflowerblue; */
+    border-bottom: 2px solid black;
+    height: 100px;
+    width: 90%;
+    margin-top: 0px;
+    margin-left: 90px;
+    
+   
+    background-image: radial-gradient(circle, rgb(182, 123, 123),rgb(128, 15, 15));
+    
+}
+
